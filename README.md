@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=0eix&abbreviated=true)
+
 ### Hi there, I'm [Nanevie Elisée AMEGASSI](https://0eix.github.io)! 👋
 
 Welcome to my GitHub profile!
@@ -22,6 +24,10 @@ With an M.Sc. in Computer Science from [Cheikh Anta Diop University](https://www
 - **Email**: [eliseeamegassi@gmail.com](mailto:eliseeamegassi@gmail.com)
 - **LinkedIn**: [nanevie](https://www.linkedin.com/in/nanevie/)
 - **Website**: [0eix.github.io](https://0eix.github.io/)
+  
+---
+📊 **Statistics**:
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=0eix&show_icons=true&theme=transparent&rank_icon=github)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0eix&theme=transparent&layout=compact&langs_count=8)
+
